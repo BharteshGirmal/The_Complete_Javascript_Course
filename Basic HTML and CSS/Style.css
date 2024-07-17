@@ -1,0 +1,40 @@
+*{
+      padding: 10px;
+      margin: auto;
+      box-sizing: border-box;
+}
+
+body{
+      background-color: beige;
+      font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+      text-align: center;
+}
+.first{
+      color: red;
+}
+
+#your-name{
+      border: 2px solid #444;
+      background-color:  aqua;
+      text-align: center;
+      width: 500px;
+      padding: 25px;
+      align-self: center;
+
+}
+.courseImg{
+      image-orientation: 0deg;
+      width: 10cm;
+      height: 5cm;
+}
+
+input,button{
+      padding: 10px;
+      font-size:18px ;
+}
+
+#your-name h2{
+      color: olivedrab;
+}

@@ -1,0 +1,70 @@
+
+*{
+      box-sizing: border-box;
+}
+
+.bmw{
+      position: relative;
+      height: 300px;
+      width: 300px;
+      background-color: #000;
+      border-radius: 100%;
+
+
+}
+
+.b
+.m
+.w{
+      position: absolute;
+      color: red;
+      font-size: 55px;
+}
+
+.b{
+      top: 44px;
+      left: 15%;
+      transform: rotate(50deg);
+}
+
+
+.inner-circle{
+      position: relative;
+      width: 60%;
+      height: 60%;
+      border-radius: 100%;
+      top: 20%;
+      left: 20%;
+}
+
+.shape1{
+      height: 47%;
+      width: 47%;
+      background-color: aqua;
+      border-radius: 100% 0 0 0;
+}
+
+.shape2{
+      height: 47%;
+      width: 47%;
+      background-color: darkslategray;
+      border-radius:  0 100% 0 0 0;
+}
+
+.shape3{
+      top: 0;
+      bottom: 0;
+      height: 47%;
+      width: 47%;
+      background-color: aqua;
+      border-radius: 0 0 100% 0  ;
+}
+
+.shape4{
+      right: 0;
+      bottom: 0;
+      height: 47%;
+      width: 47%;
+      background-color: darkslategray;
+      border-radius:0 0 0  100%  ;
+}
